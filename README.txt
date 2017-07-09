@@ -15,6 +15,8 @@ Now you can use the functions in the command prompt of MATLAB
 Use:
 decisiontree.m provides the main script for running the ID3 algorithm. You provide it with options as well as an input text file of data.
 
+There are comments describing the exact arguments for decisiontree.m, please refer to that file.
+
 This input file is tab-delimited. For example, if you wanted to classify the data points with attributes a1, a2, and a3 the input file would be
 
 a1  a2  a3  CLASS
@@ -23,3 +25,5 @@ false true  false true
 etc.
 
 where each row represents a new data point and the last Boolean is what that point was classified as
+
+Sample data under the folder samples/
