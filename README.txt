@@ -1,4 +1,4 @@
-ID3-Decision-Tree
+ID3-Decision-Tree classification
 =================
 
 A MATLAB implementation of the ID3 decision tree algorithm for EECS349 - Machine Learning
